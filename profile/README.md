@@ -24,14 +24,14 @@ Documentation: Help improve the documentation of existing projects or create new
 Please refer to our Contribution Guidelines for detailed instructions on how to contribute to OSCF.
 
 ### Join the Community
-Join our vibrant community of developers and be a part of the open-source movement. You can:
+Join our vibrant [community](https://discord.gg/TErMHXpQ) of developers and be a part of the open-source movement. You can:
 
 * Follow us: Stay updated with the latest news, events, and project releases by following us on Twitter and LinkedIn.
-* Join the Discussion: Participate in our Community Forum to connect with like-minded individuals, ask questions, and share your insights.
+* Join the Discussion: Participate in our [Community Forum](https://discord.gg/TErMHXpQ) to connect with like-minded individuals, ask questions, and share your insights.
 * Attend Events: Join us at our online and offline events, including webinars, conferences, and workshops.
 * Spread the Word: Help us spread the word about OSCF and open-source initiatives by sharing our projects and events on your social media channels.
 
-We look forward to your contributions and collaboration in building a stronger and more vibrant open-source community.
+We look forward to your contributions and collaboration in building a stronger and more vibrant open-source [community](https://discord.gg/TErMHXpQ).
 
 ### License
 This repository and its contents are licensed under the [MIT License](./LICENSE).
