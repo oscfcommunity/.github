@@ -27,32 +27,6 @@ Please refer to our Contribution Guidelines for detailed instructions on how to 
 
 [Click here](https://github.com/oscf-io/.github/issues/new?template=default.md) to create issue with default template
 
-```
-## Goal: 
-[One line goal description] 
-
-## Related Issues & Links: 
-[Reference meta issues and past issues] #
-
-## Roles:
-
-Responsible:
-
-Accountable:
-
-Supporting:
-
-Consulted:
-
-Informed: 
-
-## Required: 
-- [ ] Put mittens on all of the kittens (owner, Due: Aug 7th) 
-- [ ] Put mittens on all of the kittens (owner, Due: Aug 7th) 
-- [ ] Put mittens on all of the kittens (owner, Due: Aug 7th)
-```
-Note: Because of the way permissions work on this repo, if you can't add a label yourself indicate the label you want added in the body of the issue and someone will add it for you.
-
 ### Join the [Community](https://discord.gg/TErMHXpQ)
 Join our vibrant community of developers and be a part of the open-source movement. You can:
 
