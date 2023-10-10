@@ -53,7 +53,7 @@ Informed:
 ```
 Note: Because of the way permissions work on this repo, if you can't add a label yourself indicate the label you want added in the body of the issue and someone will add it for you.
 
-### Join the [Community](https://discord.gg/TErMHXpQ)
+### Join the [Community](https://t.me/oscfcommunity)
 Join our vibrant community of developers and be a part of the open-source movement. You can:
 
 * Follow us: Stay updated with the latest news, events, and project releases by following us on Twitter and LinkedIn.
