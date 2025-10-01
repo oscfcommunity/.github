@@ -1,21 +1,10 @@
 # Open Source Community Foundation (OSCF)
 
-<a href="https://twitter.com/oscfcommunity">
-  <img align="left" alt="Mehul's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/oscfcommunity/">
-  <img align="left" alt="Mehul's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/oscfcommunity">
-  <img align="left" alt="Mehul's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/oscf.community/">
-  <img align="left" alt="Mehul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://github.com/oscfcommunity">
-  <img align="left" alt="OSCF's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<br />
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/oscfcommunity)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscfcommunity/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/oscfcommunity)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/oscf.community/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/oscfcommunity)
 <br />
 Welcome to the Open Source Community Foundation (OSCF) repository! We are a community-driven organization dedicated to promoting and supporting the growth of open-source projects and fostering collaboration among developers worldwide.
 
